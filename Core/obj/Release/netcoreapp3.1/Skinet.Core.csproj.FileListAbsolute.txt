@@ -1,0 +1,13 @@
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\Skinet\Core\bin\Release\netcoreapp3.1\Skinet.Core.deps.json
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\Skinet\Core\bin\Release\netcoreapp3.1\Skinet.Core.runtimeconfig.json
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\Skinet\Core\bin\Release\netcoreapp3.1\Skinet.Core.runtimeconfig.dev.json
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\Skinet\Core\bin\Release\netcoreapp3.1\Skinet.Core.dll
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\Skinet\Core\bin\Release\netcoreapp3.1\Skinet.Core.pdb
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\Skinet\Core\obj\Release\netcoreapp3.1\Skinet.Core.csproj.AssemblyReference.cache
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\Skinet\Core\obj\Release\netcoreapp3.1\Skinet.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\Skinet\Core\obj\Release\netcoreapp3.1\Skinet.Core.AssemblyInfoInputs.cache
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\Skinet\Core\obj\Release\netcoreapp3.1\Skinet.Core.AssemblyInfo.cs
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\Skinet\Core\obj\Release\netcoreapp3.1\Skinet.Core.csproj.CoreCompileInputs.cache
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\Skinet\Core\obj\Release\netcoreapp3.1\Skinet.Core.dll
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\Skinet\Core\obj\Release\netcoreapp3.1\Skinet.Core.pdb
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\Skinet\Core\obj\Release\netcoreapp3.1\Skinet.Core.genruntimeconfig.cache

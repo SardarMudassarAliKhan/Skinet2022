@@ -1,0 +1,16 @@
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\Skinet\Skinet.Infrastracture\bin\Release\netcoreapp3.1\Skinet.Infrastracture.deps.json
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\Skinet\Skinet.Infrastracture\bin\Release\netcoreapp3.1\Skinet.Infrastracture.runtimeconfig.json
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\Skinet\Skinet.Infrastracture\bin\Release\netcoreapp3.1\Skinet.Infrastracture.runtimeconfig.dev.json
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\Skinet\Skinet.Infrastracture\bin\Release\netcoreapp3.1\Skinet.Infrastracture.dll
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\Skinet\Skinet.Infrastracture\bin\Release\netcoreapp3.1\Skinet.Infrastracture.pdb
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\Skinet\Skinet.Infrastracture\bin\Release\netcoreapp3.1\Skinet.Core.dll
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\Skinet\Skinet.Infrastracture\bin\Release\netcoreapp3.1\Skinet.Core.pdb
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\Skinet\Skinet.Infrastracture\obj\Release\netcoreapp3.1\Skinet.Infrastracture.csproj.AssemblyReference.cache
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\Skinet\Skinet.Infrastracture\obj\Release\netcoreapp3.1\Skinet.Infrastracture.GeneratedMSBuildEditorConfig.editorconfig
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\Skinet\Skinet.Infrastracture\obj\Release\netcoreapp3.1\Skinet.Infrastracture.AssemblyInfoInputs.cache
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\Skinet\Skinet.Infrastracture\obj\Release\netcoreapp3.1\Skinet.Infrastracture.AssemblyInfo.cs
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\Skinet\Skinet.Infrastracture\obj\Release\netcoreapp3.1\Skinet.Infrastracture.csproj.CoreCompileInputs.cache
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\Skinet\Skinet.Infrastracture\obj\Release\netcoreapp3.1\Skinet.Infrastracture.csproj.CopyComplete
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\Skinet\Skinet.Infrastracture\obj\Release\netcoreapp3.1\Skinet.Infrastracture.dll
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\Skinet\Skinet.Infrastracture\obj\Release\netcoreapp3.1\Skinet.Infrastracture.pdb
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\Skinet\Skinet.Infrastracture\obj\Release\netcoreapp3.1\Skinet.Infrastracture.genruntimeconfig.cache

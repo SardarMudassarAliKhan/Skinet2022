@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+	<ItemGroup>
+		<PackageReference Include="AutoMapper" Version="11.0.1" />
+		<PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+		<PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.22" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.22" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.22">
+			<PrivateAssets>all</PrivateAssets>
+			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		</PackageReference>
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="3.1.22" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.22">
+			<PrivateAssets>all</PrivateAssets>
+			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		</PackageReference>
+		<PackageReference Include="SQLite" Version="3.13.0" />
+		<PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+		<PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="6.2.3" />
+	</ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Core\Skinet.Core.csproj" />
+    <ProjectReference Include="..\Skinet.Application\Skinet.Application.csproj" />
+    <ProjectReference Include="..\Skinet.Infrastracture\Skinet.Infrastracture.csproj" />
+  </ItemGroup>
+
+
+</Project>

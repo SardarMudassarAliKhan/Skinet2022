@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="skinet-001-site1" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^F:\\Software\ Programming\ Practice\\ASP\.NET\ FRAMEWORK\ SPECIAL\\2022-POC-PROJECT\\Asp\.NET_Architecture\\Skinet\\Skinet\\obj\\Release\\netcoreapp3\.1\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

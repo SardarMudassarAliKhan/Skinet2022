@@ -37,3 +37,16 @@ F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.
 F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\CleanArchiInAspNetCore6WebAPI\Core\obj\Debug\netcoreapp3.1\Skinet.Core.dll
 F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\CleanArchiInAspNetCore6WebAPI\Core\obj\Debug\netcoreapp3.1\Skinet.Core.pdb
 F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\Asp.NET_Architecture\CleanArchiInAspNetCore6WebAPI\Core\obj\Debug\netcoreapp3.1\Skinet.Core.genruntimeconfig.cache
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\CleanArchitectureInAspNetCoreWebAPI\Core\bin\Debug\netcoreapp3.1\Skinet.Core.deps.json
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\CleanArchitectureInAspNetCoreWebAPI\Core\bin\Debug\netcoreapp3.1\Skinet.Core.runtimeconfig.json
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\CleanArchitectureInAspNetCoreWebAPI\Core\bin\Debug\netcoreapp3.1\Skinet.Core.runtimeconfig.dev.json
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\CleanArchitectureInAspNetCoreWebAPI\Core\bin\Debug\netcoreapp3.1\Skinet.Core.dll
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\CleanArchitectureInAspNetCoreWebAPI\Core\bin\Debug\netcoreapp3.1\Skinet.Core.pdb
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\CleanArchitectureInAspNetCoreWebAPI\Core\obj\Debug\netcoreapp3.1\Skinet.Core.csproj.AssemblyReference.cache
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\CleanArchitectureInAspNetCoreWebAPI\Core\obj\Debug\netcoreapp3.1\Skinet.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\CleanArchitectureInAspNetCoreWebAPI\Core\obj\Debug\netcoreapp3.1\Skinet.Core.AssemblyInfoInputs.cache
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\CleanArchitectureInAspNetCoreWebAPI\Core\obj\Debug\netcoreapp3.1\Skinet.Core.AssemblyInfo.cs
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\CleanArchitectureInAspNetCoreWebAPI\Core\obj\Debug\netcoreapp3.1\Skinet.Core.csproj.CoreCompileInputs.cache
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\CleanArchitectureInAspNetCoreWebAPI\Core\obj\Debug\netcoreapp3.1\Skinet.Core.dll
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\CleanArchitectureInAspNetCoreWebAPI\Core\obj\Debug\netcoreapp3.1\Skinet.Core.pdb
+F:\Software Programming Practice\ASP.NET FRAMEWORK SPECIAL\2022-POC-PROJECT\CleanArchitectureInAspNetCoreWebAPI\Core\obj\Debug\netcoreapp3.1\Skinet.Core.genruntimeconfig.cache
